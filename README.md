@@ -13,13 +13,9 @@ my README.md file can be viewed directly github to see how markdown is rendered.
 git clone https://github.com/mjshawa/myfirstreadme.git
 
 # Contributing Guidlines
-Contributions are welcome!
+Contributions are welcome
 
-# License
-This project is licensed under CCO-1.0 CREATIVE COMMONS license 
-
-# Author 
-Moses Shawa
+# Author Moses Shawa
 
 
 # Screenshot

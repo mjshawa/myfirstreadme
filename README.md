@@ -15,6 +15,9 @@ git clone https://github.com/mjshawa/myfirstreadme.git
 # Contributing Guidlines
 Contributions are welcome
 
+# licence
+MIT lecence
+
 # Author Moses Shawa
 
 

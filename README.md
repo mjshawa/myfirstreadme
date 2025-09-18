@@ -7,7 +7,7 @@ For now there is no necessary installation steps because it doesen't contain any
 
 # Usage 
 This repo is for education purposes.
-my README.md file can be viewed directly github to see how markdown is rendered.
+my README.md file can be viewed directly on github to see how markdown is rendered.
 
 # Example of a code snippet
 git clone https://github.com/mjshawa/myfirstreadme.git
@@ -16,7 +16,7 @@ git clone https://github.com/mjshawa/myfirstreadme.git
 Contributions are welcome
 
 # licence
-MIT lecence
+MIT licence
 
 # Author Moses Shawa
 

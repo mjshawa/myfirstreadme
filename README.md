@@ -10,7 +10,7 @@ This repo is for education purposes.
 my README.md file can be viewed directly github to see how markdown is rendered.
 
 # Example of a code snippet
-git clone https://github.com/mjshawa/myfirstreadme_Mj.com
+git clone https://github.com/mjshawa/myfirstreadme.git
 
 # Contributing Guidlines
 Contributions are welcome!

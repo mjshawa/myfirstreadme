@@ -18,7 +18,9 @@ Contributions are welcome
 # licence
 MIT licence
 
-# Author Moses Shawa
+# Author 
+Moses Shawa
+https://github.com/mjshawa/myfirstreadme/edit/main/README.md
 
 
 # Screenshot
